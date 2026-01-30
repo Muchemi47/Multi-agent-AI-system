@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Nexus Tutor Supervisor",
+  "description": "A high-fidelity simulation of a multi-agent tutoring system orchestration layer. The Supervisor coordinates specialized agents—from curriculum planning to feedback analysis—using Gemini to generate educational content and evaluate progress toward learning goals.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
